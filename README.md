@@ -16,4 +16,4 @@ Make sure you have [Python 3.x](https://www.python.org/) installed.
 ### Setup & Play
 1. Clone this repository to your machine:
 ```bash
-   git clone [https://github.com/Iamanisha-coder/blackjack-game-.git](https://github.com/Iamanisha-coder/blackjack-game-.git)
+   git clone [https://github.com/Iamanisha-coder/blackjack-game.git](https://github.com/Iamanisha-coder/blackjack-game.git)
